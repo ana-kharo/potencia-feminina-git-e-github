@@ -1,7 +1,13 @@
 ## Notas de aula - [Módulo 2] - Git e Github
 
-### Nota 1
+### git status:
+**verificar o status dos arquivos e pastats dentro do nosso repositório.
 
-### Nota 2
+### git add [caminho do arquivo]
+**adicionar um arquivo em específico**
 
-### Nota 3
+### git add .
+**adiciona todos os arquivos para a esteira de commit**
+
+
+### git commit
